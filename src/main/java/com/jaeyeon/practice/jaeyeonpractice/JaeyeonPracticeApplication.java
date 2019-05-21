@@ -8,7 +8,7 @@ public class JaeyeonPracticeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JaeyeonPracticeApplication.class, args);
-        //git init
+        //change
     }
 
 }
